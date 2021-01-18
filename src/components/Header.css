@@ -10,7 +10,8 @@
   z-index: 100;
 }
 
-.header__logo {
+.header__logo > img {
+  cursor: pointer;
   height: 24px;
   width: 100px;
   margin-top: 7px;
@@ -23,6 +24,7 @@
 }
 
 .header__center > p {
+  cursor: pointer;
   margin: 10px;
   text-transform: uppercase;
 }
@@ -34,5 +36,6 @@
 }
 
 .header__right > p {
+  cursor: pointer;
   margin: 10px;
 }
