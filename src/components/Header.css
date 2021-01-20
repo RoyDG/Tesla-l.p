@@ -30,6 +30,7 @@
 }
 
 .header__right {
+  margin-right: 30px;
   display: flex;
   justify-content: flex-end;
   text-transform: uppercase;

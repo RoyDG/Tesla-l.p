@@ -21,7 +21,7 @@ function Header() {
 
             <div className = "header__right">
                 <p>Shop</p>
-                <p>Tesla Account</p>
+                <p>Tesla  Account</p>
             </div>
 
         </div>

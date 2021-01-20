@@ -1,0 +1,10 @@
+.App {
+  font-family: iCielMedium, serif;
+  font-weight: 600;
+}
+
+.app__items__container {
+  scroll-snap-type: y mandatory;
+  overflow: auto;
+  height: 100vh;
+}
