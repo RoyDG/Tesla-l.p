@@ -99,12 +99,8 @@ function App() {
         desc = ''
         descLink = ''
         backgroundImg = {Accessories}
-        leftBtnTxt = 'SHOP NOW'
+        leftBtnTxt = 'ORDER NOW'
         leftBtnLink = ''
-        rightBtnTxt = 'LEARN MORE'
-        rightBtnLink = ''
-        twoButtons = 'true'
-        
        />
      </div>
     </div>
