@@ -7,3 +7,4 @@
 - npm install @material-ui/icons
 - header > item > button components added
 - scroll-snap used in css
+- button fixed & burger added

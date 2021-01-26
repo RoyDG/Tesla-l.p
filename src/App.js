@@ -38,8 +38,7 @@ function App() {
         leftBtnLink = ''
         rightBtnTxt = 'EXISTING INVENTORY'
         rightBtnLink = ''
-        twoButtons = 'true'
-        
+        twoButtons = 'true'     
        />
 
       <Item
@@ -51,8 +50,7 @@ function App() {
         leftBtnLink = ''
         rightBtnTxt = 'EXISTING INVENTORY'
         rightBtnLink = ''
-        twoButtons = 'true'
-        
+        twoButtons = 'true' 
        />
 
       <Item
@@ -64,8 +62,7 @@ function App() {
         leftBtnLink = ''
         rightBtnTxt = 'EXISTING INVENTORY'
         rightBtnLink = ''
-        twoButtons = 'true'
-        
+        twoButtons = 'true' 
        />
 
       <Item
@@ -78,7 +75,6 @@ function App() {
         rightBtnTxt = 'LEARN MORE'
         rightBtnLink = ''
         twoButtons = 'true'
-        
        />
 
       <Item
@@ -90,8 +86,7 @@ function App() {
         leftBtnLink = ''
         rightBtnTxt = 'LEARN MORE'
         rightBtnLink = ''
-        twoButtons = 'true'
-        
+        twoButtons = 'true'  
        />
 
       <Item
@@ -99,7 +94,7 @@ function App() {
         desc = ''
         descLink = ''
         backgroundImg = {Accessories}
-        leftBtnTxt = 'ORDER NOW'
+        leftBtnTxt = 'SHOP NOW'
         leftBtnLink = ''
        />
      </div>
